@@ -28,3 +28,13 @@ This project uses a two-table dataset consisting of 62,516 consumer complaint re
 * Created interactive reports
 
 # Data Modeling
+<img width="1641" height="590" alt="Screenshot 2025-12-26 103004" src="https://github.com/user-attachments/assets/a7557740-fc83-47ef-b740-d54883095986" />
+
+# Key Insights
+
+
+
+
+
+
+
