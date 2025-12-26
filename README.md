@@ -31,9 +31,16 @@ This project uses a two-table dataset consisting of 62,516 consumer complaint re
 <img width="1641" height="590" alt="Screenshot 2025-12-26 103004" src="https://github.com/user-attachments/assets/a7557740-fc83-47ef-b740-d54883095986" />
 
 # Key Insights
+<img width="1222" height="113" alt="Screenshot 2025-12-26 130651" src="https://github.com/user-attachments/assets/098bbb02-0e9c-4ad6-8dab-b86ff4fc1b39" />
 
+* 62,516 complaints were recorded with a 29.5% YoY decrease in complaints
+* There is an Average timely response of 93.75% 
+* Average reputation score of 75.07 was recorded
+* The average market share of the companies represented in this report is 9.25%
 
+<img width="1221" height="255" alt="Screenshot 2025-12-26 133247" src="https://github.com/user-attachments/assets/c3ee80cf-a4d9-4697-b9b3-fba04d8994b4" />
 
+* There is an increasing upward trend in the number of complaints over the years. In 2019, there was drop from 7,872 to 7,075 complaints. However from 2020-2022 there was steady increase with 2022 recording the highest number of complaints (12,953). In 2023, there was a major drop in complaints (from 12,953 complaints to 9,131)
 
 
 
