@@ -60,3 +60,11 @@ This project uses a two-table dataset consisting of 62,516 consumer complaint re
 
 <img width="1241" height="752" alt="Screenshot 2025-10-23 175308" src="https://github.com/user-attachments/assets/900df85a-1ead-4909-a38c-65615525ef00" />
 
+<img width="1244" height="750" alt="Screenshot 2025-10-23 175411" src="https://github.com/user-attachments/assets/cea4c479-8810-4d34-af57-3b718e72bec7" />
+
+<img width="1245" height="750" alt="Screenshot 2025-10-23 175456" src="https://github.com/user-attachments/assets/9aaefd00-0072-4c32-b67c-c609fdeca18d" />
+
+<img width="1241" height="753" alt="Screenshot 2025-10-23 175555" src="https://github.com/user-attachments/assets/58337f34-8608-4179-bcfc-7f604d8daf4a" />
+
+Explore the interractive report here: 
+https://app.powerbi.com/view?r=eyJrIjoiZTkxNTM1YTAtZWJiZC00ZDYyLTk1MTctYTkzNjE2MDU0NTdmIiwidCI6ImQwMjZkZjkxLTg4MTYtNDIyNS04YmIyLWMzODJhOGUxZWYwYyJ9
